@@ -58,9 +58,9 @@ Nuestro script necesita una librería que permite crear documentos Word: python-
 1. Abre un editor de texto:  
    - En Windows: Bloc de notas.  
    - En macOS: TextEdit (en modo texto plano).  
-2. Copia el contenido de cv_template_blank.py.  
+2. Copia el contenido de cv-general.py.  
 3. Guarda el archivo en tu carpeta de documentos con este nombre:  
-   cv_template_blank.py
+  cv-general.py
 
 ⚠️ Importante: asegúrate de que el archivo termine en .py y no en .txt.  
 
@@ -74,7 +74,7 @@ Nuestro script necesita una librería que permite crear documentos Word: python-
    python cv_template_blank.py
 
 👉 En macOS/Linux puede ser:  
-   python3 cv_template_blank.py  
+   python3 cv-general.py 
 
 ---
 
