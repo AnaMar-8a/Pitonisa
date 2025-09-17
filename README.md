@@ -43,7 +43,7 @@ Este repo crecerá conmigo.
 ## 📬 Contacto
 - 📧 8a.anamaria@gmail.com  
 - 🌐 [LinkedIn](https://linkedin.com/in/8aanamaria)  
-- 🐙 Repo: [Pitonisa](https://github.com/TU_USUARIO/Pitonisa)  
+- 🐙 Repo: [Pitonisa](https://github.com/AnaMar-8a/Pitonisa)  
 
 ---
 
